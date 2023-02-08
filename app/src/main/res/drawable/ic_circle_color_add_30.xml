@@ -1,0 +1,12 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_colored_background_circle"
+        />
+
+    <item android:drawable="@drawable/ic_baseline_add_24"
+        android:top="10dp"
+        android:bottom="10dp"
+        android:left="10dp"
+        android:right="10dp"
+        />
+
+</layer-list>

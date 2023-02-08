@@ -7,4 +7,44 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="app_black">#131F35</color>
+    <color name="primary">#3879e9</color>
+    <color name="primary_80">#CC3879E9</color>
+    <color name="primary_30">#4D3879E9</color>
+
+    <color name="red">#EB4335</color>
+    <color name="secondary">#998a8a</color>
+    <color name="beige">#E4D4D4</color>
+    <color name="lg_white">#F5F5F5</color>
+    <color name="grey">#949494</color>
+    <color name="grey_400">#A1A8B0</color>
+    <color name="lg_grey">#D9D9D9</color>
+    <color name="dark_grey">#DD444444</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="grey_transparent">#B373777B</color>
+    <color name="green">#3EC70B</color>
+    <color name="lg_green">#E875F175</color>
+    <!--    <color name="lg_green">#90ee90</color>-->
+    <color name="lg_red">#F88E8E</color>
+    <color name="lg_orange">#fff44f</color>
+    <color name="pink">#ee9cda</color>
+    <color name="lg_blue">#4888F6</color>
+    <color name="lg_sky_white">#F7F9FB</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="blue_transparent">#6593C9FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black_100">#1A1717</color>
+    <color name="rating_progress">#F7A928</color>
+
+    <color name="grey_op_70">#B3D9D9D9</color>
+    <color name="primary_005">#0D3879E9</color>
+    <color name="yellow">#FBBC05</color>
+    <color name="glass_morphism_color">#59C2C2C2</color>
+    <color name="pink_30">#4DEE9CDA</color>
+
 </resources>
